@@ -1,8 +1,25 @@
 # Seattle Airbnb Market Analysis in Tableau
 
+## Table of Contents
+
+- [Seattle Airbnb Market Analysis in Tableau](#seattle-airbnb-market-analysis-in-tableau)
+- [Overview](#overview)
+- [Objectives and Key Questions](#objectives-and-key-questions)
+- [Dataset](#dataset)
+- [Key Insights](#key-insights)
+  - [1. Average Price per Bedroom](#1-average-price-per-bedroom)
+  - [2. Price Distribution by Zip Code](#2-price-distribution-by-zip-code)
+  - [3. Revenue Trends Over Time](#3-revenue-trends-over-time)
+  - [4. Listings Distribution by Bedroom Count](#4-listings-distribution-by-bedroom-count)
+- [Tableau Dashboard](#tableau-dashboard)
+- [Usage Instructions](#usage-instructions)
+- [Limitations](#limitations)
+- [Future Recommendations](#future-recommendations)
+
+
 ![Seattle Airbnb Market Analysis.png](https://github.com/ndomah1/Seattle-Airbnb-Market-Analysis-in-Tableau/blob/main/images/Seattle%20Airbnb%20Market%20Analysis.png)
 
-Click [here](https://public.tableau.com/app/profile/nilesh.domah4581/viz/SeattleAirbnbMarketAnalysis_17423423549360/Dashboard1) to view interactive dashboard on Tableau Public.
+Click [here](https://public.tableau.com/app/profile/nilesh.domah4581/viz/SeattleAirbnbMarketAnalysis_17423423549360/Dashboard1) to view the interactive dashboard on Tableau Public.
 
 ## Overview
 
