@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Seattle Airbnb Market Analysis in Tableau](#seattle-airbnb-market-analysis-in-tableau)
 - [Overview](#overview)
 - [Objectives and Key Questions](#objectives-and-key-questions)
 - [Dataset](#dataset)
