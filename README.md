@@ -1,8 +1,8 @@
 # Seattle Airbnb Market Analysis in Tableau
 
-![Seattle Airbnb Market Analysis.png](Seattle_Airbnb_Market_Analysis.png)
+![Seattle Airbnb Market Analysis.png](https://github.com/ndomah1/Seattle-Airbnb-Market-Analysis-in-Tableau/blob/main/images/Seattle%20Airbnb%20Market%20Analysis.png)
 
-Link to dashboard on Tableau Public: https://public.tableau.com/app/profile/nilesh.domah4581/viz/SeattleAirbnbMarketAnalysis_17423423549360/Dashboard1
+Click [here](https://public.tableau.com/app/profile/nilesh.domah4581/viz/SeattleAirbnbMarketAnalysis_17423423549360/Dashboard1) to view interactive dashboard on Tableau Public.
 
 ## Overview
 
@@ -17,7 +17,7 @@ This project analyzes Seattle Airbnb properties using Tableau to determine price
 
 ## Dataset
 
-The dataset (https://www.kaggle.com/datasets/airbnb/seattle) consists of Airbnb properties with the following details:
+The dataset (available on [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle)) consists of Airbnb properties with the following details:
 
 - **Listing ID**: Unique identifier for each property.
 - **Zipcode**: Geographic location of the listing.
@@ -59,11 +59,11 @@ The interactive **Tableau dashboard** includes:
 - **Revenue trends over time** (line chart)
 - **Listings distribution by bedroom count** (table and bar chart)
 
-![Seattle Airbnb Market Analysis.png](Seattle_Airbnb_Market_Analysis.png)
+![Seattle Airbnb Market Analysis.png](https://github.com/ndomah1/Seattle-Airbnb-Market-Analysis-in-Tableau/blob/main/images/Seattle%20Airbnb%20Market%20Analysis.png)
 
 ## Usage Instructions
 
-- Access the Tableau dashboard here **(**https://public.tableau.com/views/SeattleAirbnbMarketAnalysis_17423423549360/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**)**.
+- Access the Tableau dashboard [here](https://public.tableau.com/views/SeattleAirbnbMarketAnalysis_17423423549360/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**).
 - Use filters to explore data by **zip code and bedroom count**.
 - Interact with charts to **dive deeper into specific trends**.
 
